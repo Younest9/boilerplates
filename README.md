@@ -41,7 +41,7 @@ Welcome to the Docker Compose Boilerplates repository! This collection of Docker
     # Install Docker on macOS
     brew cask install docker
     # Install Docker on Windows
-    winget install docker-desktop
+    winget install -e --id Docker.DockerDesktop
     ```
 
 - [Docker Compose][6]
@@ -52,9 +52,9 @@ Welcome to the Docker Compose Boilerplates repository! This collection of Docker
     sudo apt install docker-compose
     # Install Docker Compose on macOS
     brew install docker-compose
-    # Install Docker Compose on Windows
-    winget install docker-compose
     ```
+
+    > **Note:** If you're using Windows, Docker Compose is already included in Docker Desktop.
 
 - [Git][7]
 
