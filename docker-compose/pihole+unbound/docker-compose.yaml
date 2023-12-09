@@ -4,8 +4,8 @@ services:
   pihole:
     container_name: pihole_unbound
     image: cbcrowe/pihole-unbound:latest
-    hostname: ${HOSTNAME}
-    domainname: ${DOMAIN_NAME}
+    # hostname: ${HOSTNAME}
+    # domainname: ${DOMAIN_NAME}
     ports:
       - 443:443/tcp
       - 53:53/tcp
