@@ -1,6 +1,7 @@
 # Boilerplates
 
-Welcome to the Docker Compose Boilerplates repository! This collection of Docker Compose configurations helps you quickly set up and deploy various services in a containerized environment. Whether you're a developer, system administrator, or just curious about containerization, these boilerplates make it easy to spin up different services with minimal effort.
+Welcome to the Docker Compose Boilerplates repository!
+It contains several collections, including a collection of Docker Compose configurations helps you quickly set up and deploy various services in a containerized environment. Whether you're a developer, system administrator, or just curious about containerization, these boilerplates make it easy to spin up different services with minimal effort.
 
 > **Notes:**
 >
